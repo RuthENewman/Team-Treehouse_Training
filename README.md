@@ -2,7 +2,7 @@
 Team Treehouse Curriculum
 
 Rails Development
-Points | 1,765 points
+Points | 2,085 points
 
 Ruby on Rails 5 Basics => COMPLETED | 14/01/2019 | 377 points                                                                         
 
