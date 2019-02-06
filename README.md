@@ -1,19 +1,38 @@
 # Team-Treehouse_Training
 Team Treehouse Curriculum
 
-Rails Development
-Points | 2,085 points
+RAILS DEVELOPMENT TRACK
+Points |  points
 
-Ruby on Rails 5 Basics => COMPLETED | 14/01/2019 | 377 points                                                                         
+Ruby Basics => COMPLETED | 434 points
 
-Rails Routes and Resources => COMPLETED | 14/01/2019 | 485 points
+Ruby Objects and Classes => COMPLETED | 320 points
 
-Active Record Associations in Rails => COMPLETED | 15/01/2019 | 274 points
+Ruby on Rails 5 Basics => COMPLETED | 377 points                                                                         
 
-Ruby Gems => COMPLETED | 15/01/2019 | 193 points
+Rails Routes and Resources => COMPLETED | 485 points
 
-Troubleshooting a Rails Application => VIEWED | 15/01/2019
+Ruby Gems => COMPLETED | 193 points
 
-Ruby Basics => COMPLETED | 20/01/2019 | 434 points
+Troubleshooting a Rails Application => VIEWED 
 
-Ruby Objects and Classes => COMPLETED | 20/01/2019 | 320 points
+Active Record Associations in Rails => COMPLETED | 274 points
+
+BEGINNER JAVASCRIPT TRACK
+Points |
+
+Introducing JavaScript => COMPLETED | 181 points
+
+JavaScript Basics => COMPLETED | 631 points
+
+The Landscape of JavaScript => COMPLETED | 146 points
+
+Getting Started with ES2015 => COMPLETED | 179 points
+
+JavaScript and the DOM => COMPLETED | 424 points
+
+DOM Scripting By Example => COMPLETED | 235 points
+
+DESIGN PRIMER TRACK
+Points | 256 points
+
