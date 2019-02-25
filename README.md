@@ -2,7 +2,7 @@
 Team Treehouse Curriculum
 
 RAILS DEVELOPMENT TRACK
-Points |  points
+Points |   points
 
 Ruby Basics => COMPLETED | 434 points
 
@@ -18,7 +18,7 @@ Troubleshooting a Rails Application => VIEWED
 
 Active Record Associations in Rails => COMPLETED | 274 points
 
-BEGINNER JAVASCRIPT TRACK
+BEGINNING JAVASCRIPT TRACK
 Points |
 
 Introducing JavaScript => COMPLETED | 181 points
@@ -33,6 +33,11 @@ JavaScript and the DOM => COMPLETED | 424 points
 
 DOM Scripting By Example => COMPLETED | 235 points
 
-DESIGN PRIMER TRACK
-Points | 256 points
+LEARN REACT TRACK | 248 points
 
+React Basics => COMPLETED | 248 points
+
+DESIGN PRIMER TRACK
+255 points
+
+Design Thinking => COMPLETED | 255 points
