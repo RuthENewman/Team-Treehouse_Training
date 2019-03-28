@@ -29,6 +29,8 @@ Introducing JavaScript => COMPLETED | 181 points
 
 JavaScript Basics => COMPLETED | 631 points
 
+JavaScript Loops, Arrays and Objects => COMPLETED | 440 points
+
 The Landscape of JavaScript => COMPLETED | 146 points
 
 Getting Started with ES2015 => COMPLETED | 179 points
