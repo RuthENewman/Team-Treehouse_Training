@@ -1,4 +1,4 @@
-# BEGINNING JAVASCRIPT TRACK => COMPLETED 
+# Beginning JavaScript Track => COMPLETED 
 
 Introducing JavaScript => COMPLETED | 181 points
 
@@ -16,7 +16,7 @@ DOM Scripting By Example => COMPLETED | 235 points
 
 jQuery Basics => COMPLETED | 308 points
 
-# RAILS DEVELOPMENT TRACK 
+# Rails Development Track
 
 Ruby Basics => COMPLETED | 434 points
 
@@ -36,7 +36,7 @@ Troubleshooting a Rails Application => VIEWED
 
 Active Record Associations in Rails => COMPLETED | 274 points
 
-# LEARN REACT TRACK |  
+# Learn React Track
 
 React Basics => COMPLETED | 248 points
 
@@ -44,11 +44,11 @@ React Components => COMPLETED | 227 points
 
 Using Create React App => VIEWED
 
-# BEGINNING PYTHON TRACK |
+# Beginning Python Track 
 
-Python Basics => 
+Python Basics => COMPLETED | 
 
-# DESIGN PRIMER TRACK
+# Design Primer Track
 
 Design Thinking => COMPLETED | 255 points
 
