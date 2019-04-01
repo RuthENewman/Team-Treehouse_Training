@@ -1,6 +1,20 @@
-# Team-Treehouse_Training
+# BEGINNING JAVASCRIPT TRACK => COMPLETED 
 
-# Team Treehouse Curriculum
+Introducing JavaScript => COMPLETED | 181 points
+
+JavaScript Basics => COMPLETED | 631 points
+
+JavaScript Loops, Arrays and Objects => COMPLETED | 440 points
+
+The Landscape of JavaScript => COMPLETED | 146 points
+
+Getting Started with ES2015 => COMPLETED | 179 points
+
+JavaScript and the DOM => COMPLETED | 424 points
+
+DOM Scripting By Example => COMPLETED | 235 points
+
+jQuery Basics => COMPLETED | 308 points
 
 # RAILS DEVELOPMENT TRACK 
 
@@ -22,24 +36,6 @@ Troubleshooting a Rails Application => VIEWED
 
 Active Record Associations in Rails => COMPLETED | 274 points
 
-# BEGINNING JAVASCRIPT TRACK => COMPLETED 
-
-Introducing JavaScript => COMPLETED | 181 points
-
-JavaScript Basics => COMPLETED | 631 points
-
-JavaScript Loops, Arrays and Objects => COMPLETED | 440 points
-
-The Landscape of JavaScript => COMPLETED | 146 points
-
-Getting Started with ES2015 => COMPLETED | 179 points
-
-JavaScript and the DOM => COMPLETED | 424 points
-
-DOM Scripting By Example => COMPLETED | 235 points
-
-jQuery Basics => COMPLETED | 308 points
-
 # LEARN REACT TRACK |  
 
 React Basics => COMPLETED | 248 points
@@ -53,7 +49,6 @@ Using Create React App => VIEWED
 Python Basics => 
 
 # DESIGN PRIMER TRACK
-255 points
 
 Design Thinking => COMPLETED | 255 points
 
