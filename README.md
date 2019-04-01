@@ -1,8 +1,8 @@
 # Team-Treehouse_Training
-Team Treehouse Curriculum
 
-RAILS DEVELOPMENT TRACK
-Points |   points
+# Team Treehouse Curriculum
+
+# RAILS DEVELOPMENT TRACK 
 
 Ruby Basics => COMPLETED | 434 points
 
@@ -22,8 +22,7 @@ Troubleshooting a Rails Application => VIEWED
 
 Active Record Associations in Rails => COMPLETED | 274 points
 
-BEGINNING JAVASCRIPT TRACK
-Points |
+# BEGINNING JAVASCRIPT TRACK => COMPLETED 
 
 Introducing JavaScript => COMPLETED | 181 points
 
@@ -41,7 +40,7 @@ DOM Scripting By Example => COMPLETED | 235 points
 
 jQuery Basics => COMPLETED | 308 points
 
-LEARN REACT TRACK |  points
+# LEARN REACT TRACK |  
 
 React Basics => COMPLETED | 248 points
 
@@ -49,12 +48,15 @@ React Components => COMPLETED | 227 points
 
 Using Create React App => VIEWED
 
-DESIGN PRIMER TRACK
+# BEGINNING PYTHON TRACK |
+
+Python Basics => 
+
+# DESIGN PRIMER TRACK
 255 points
 
 Design Thinking => COMPLETED | 255 points
 
-
-Other courses 
+# Other courses 
 
 AWS with S3 => COMPLETED | 152 points
