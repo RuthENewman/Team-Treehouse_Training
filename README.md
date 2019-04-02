@@ -1,4 +1,4 @@
-# Beginning JavaScript Track => Completed
+# Full Stack JavaScript Track
 
 Introducing JavaScript => Completed | 181 points
 
@@ -15,6 +15,8 @@ JavaScript and the DOM => Completed | 424 points
 DOM Scripting By Example => Completed | 235 points
 
 jQuery Basics => Completed | 308 points
+
+Node.JS basics => Completed | 301 points
 
 # Rails Development Track
 
@@ -40,32 +42,38 @@ Active Record Associations in Rails => Completed | 274 points
 
 React Basics => Completed | 248 points
 
-React Components => COMPLETED | 227 points
+React Components => Completed | 227 points
 
-Using Create React App => VIEWED
+Using Create React App => Viewed
 
 # Beginning Python Track 
 
-Python Basics => COMPLETED | 342 points
+Python Basics => Completed | 342 points
+
+Introducing Lists => Completed | 235 points
+
+Understanding Dunder Main (__main__) => Viewed
 
 # Design Primer Track
 
-Design Thinking => COMPLETED | 255 points
-
-# Other courses 
-
-AWS with S3 => COMPLETED | 152 points
+Design Thinking => Completed | 255 points
 
 # Full Stack Foundations Track
 
-Introduction to HTML and CSS => COMPLETED | 309 points
+Introduction to HTML and CSS => Completed | 309 points
 
-Python Basics => COMPLETED | 342 points
+Python Basics => Completed | 342 points
 
-The Landscape of JavaScript => COMPLETED | 146 points
+Introducing Lists => Completed | 235 points
 
-JavaScript and the DOM => COMPLETED | 424 points
+The Landscape of JavaScript => Completed | 146 points
 
-DOM Scripting By Example => COMPLETED | 235 points
+JavaScript Quickstart => Completed | 256 points
 
+JavaScript and the DOM => Completed | 424 points
 
+DOM Scripting By Example => Completed | 235 points
+
+# Other courses 
+
+AWS with S3 => Completed | 152 points
