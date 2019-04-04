@@ -46,6 +46,8 @@ React Components => Completed | 227 points
 
 Using Create React App => Viewed
 
+React Context API => Viewed
+
 # Beginning Python Track 
 
 Python Basics => Completed | 342 points
