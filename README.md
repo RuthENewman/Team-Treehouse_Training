@@ -50,6 +50,8 @@ React Context API => Viewed
 
 React Router 4 Basics => Completed | 189 points
 
+What's New in React 16 => Viewed 
+
 # Beginning Python Track 
 
 Python Basics => Completed | 342 points
