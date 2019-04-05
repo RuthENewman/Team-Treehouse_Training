@@ -1,3 +1,21 @@
+# Learn React Track => Completed
+
+React Basics => Completed | 248 points
+
+React Components => Completed | 227 points
+
+Using Create React App => Viewed
+
+React Context API => Viewed
+
+React Router 4 Basics => Completed | 189 points
+
+What's New in React 16 => Viewed 
+
+Data Fetching in React => Viewed
+
+Deploying a React app => Viewed
+
 # Full Stack JavaScript Track
 
 Introducing JavaScript => Completed | 181 points
@@ -37,20 +55,6 @@ Ruby Gems => Completed | 193 points
 Troubleshooting a Rails Application => Viewed
 
 Active Record Associations in Rails => Completed | 274 points
-
-# Learn React Track
-
-React Basics => Completed | 248 points
-
-React Components => Completed | 227 points
-
-Using Create React App => Viewed
-
-React Context API => Viewed
-
-React Router 4 Basics => Completed | 189 points
-
-What's New in React 16 => Viewed 
 
 # Beginning Python Track 
 
