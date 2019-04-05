@@ -48,7 +48,7 @@ Using Create React App => Viewed
 
 React Context API => Viewed
 
-React Router 4 Basics => Completed
+React Router 4 Basics => Completed | 189 points
 
 # Beginning Python Track 
 
