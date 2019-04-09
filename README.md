@@ -64,6 +64,8 @@ Introducing Lists => Completed | 235 points
 
 Understanding Dunder Main (__main__) => Viewed
 
+Python Collections => Completed | 533 points
+
 # Design Primer Track
 
 Design Thinking => Completed | 255 points
@@ -75,6 +77,8 @@ Introduction to HTML and CSS => Completed | 309 points
 Python Basics => Completed | 342 points
 
 Introducing Lists => Completed | 235 points
+
+Python Collections => Completed | 533 points
 
 The Landscape of JavaScript => Completed | 146 points
 
